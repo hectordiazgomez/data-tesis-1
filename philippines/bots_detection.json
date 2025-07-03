@@ -1,0 +1,1510 @@
+{
+  "analysis_info": {
+    "total_analyzed": 500,
+    "bots_detected": 315,
+    "humans_detected": 185,
+    "last_updated": "2025-06-23 16:26:51"
+  },
+  "user_classifications": {
+    "linux-china": {
+      "is_bot": true
+    },
+    "marksteve": {
+      "is_bot": true
+    },
+    "zakame": {
+      "is_bot": true
+    },
+    "pageman": {
+      "is_bot": true
+    },
+    "dyu": {
+      "is_bot": true
+    },
+    "MrValdez": {
+      "is_bot": true
+    },
+    "radamanthus": {
+      "is_bot": true
+    },
+    "marconi": {
+      "is_bot": true
+    },
+    "keikun17": {
+      "is_bot": true
+    },
+    "cblanquera": {
+      "is_bot": true
+    },
+    "Erol": {
+      "is_bot": true
+    },
+    "avendael": {
+      "is_bot": true
+    },
+    "lmumar": {
+      "is_bot": true
+    },
+    "brainv": {
+      "is_bot": true
+    },
+    "kristinalim": {
+      "is_bot": true
+    },
+    "albertpadin": {
+      "is_bot": true
+    },
+    "jedt": {
+      "is_bot": true
+    },
+    "andrewabogado": {
+      "is_bot": true
+    },
+    "maricris-sn": {
+      "is_bot": true
+    },
+    "markjeee": {
+      "is_bot": true
+    },
+    "semprix": {
+      "is_bot": true
+    },
+    "TimDumol": {
+      "is_bot": true
+    },
+    "jondanao": {
+      "is_bot": true
+    },
+    "jovenbarola": {
+      "is_bot": true
+    },
+    "dexterbt1": {
+      "is_bot": true
+    },
+    "dreinavarro": {
+      "is_bot": true
+    },
+    "raeldc": {
+      "is_bot": true
+    },
+    "randybias": {
+      "is_bot": true
+    },
+    "nathanielvarona": {
+      "is_bot": true
+    },
+    "mpagalan": {
+      "is_bot": true
+    },
+    "jaaborot": {
+      "is_bot": true
+    },
+    "elmer": {
+      "is_bot": true
+    },
+    "lysender": {
+      "is_bot": true
+    },
+    "mindless": {
+      "is_bot": true
+    },
+    "wawimundo": {
+      "is_bot": true
+    },
+    "marfillaster": {
+      "is_bot": true
+    },
+    "altcoder": {
+      "is_bot": true
+    },
+    "helloluis": {
+      "is_bot": true
+    },
+    "ojtibi": {
+      "is_bot": true
+    },
+    "bobreyes": {
+      "is_bot": true
+    },
+    "gsmendoza": {
+      "is_bot": true
+    },
+    "rad182": {
+      "is_bot": true
+    },
+    "stoddart": {
+      "is_bot": true
+    },
+    "aputs": {
+      "is_bot": true
+    },
+    "e-yes": {
+      "is_bot": true
+    },
+    "kates": {
+      "is_bot": true
+    },
+    "ericpareja": {
+      "is_bot": true
+    },
+    "defaultstate": {
+      "is_bot": true
+    },
+    "Wilhansen": {
+      "is_bot": true
+    },
+    "thirdreplicator": {
+      "is_bot": true
+    },
+    "aptinio": {
+      "is_bot": false
+    },
+    "bleepster": {
+      "is_bot": true
+    },
+    "slowlearner": {
+      "is_bot": false
+    },
+    "thawkins": {
+      "is_bot": false
+    },
+    "marvs": {
+      "is_bot": false
+    },
+    "amdg": {
+      "is_bot": false
+    },
+    "paologlim": {
+      "is_bot": false
+    },
+    "primerg": {
+      "is_bot": false
+    },
+    "earljon": {
+      "is_bot": false
+    },
+    "ebangug": {
+      "is_bot": false
+    },
+    "adelagon": {
+      "is_bot": false
+    },
+    "gabconcepcion": {
+      "is_bot": false
+    },
+    "mae": {
+      "is_bot": false
+    },
+    "jedseculles": {
+      "is_bot": false
+    },
+    "tongson": {
+      "is_bot": false
+    },
+    "cpauya": {
+      "is_bot": false
+    },
+    "simoncpu": {
+      "is_bot": false
+    },
+    "jsuria": {
+      "is_bot": false
+    },
+    "johnfuller": {
+      "is_bot": false
+    },
+    "ramonmaruko": {
+      "is_bot": false
+    },
+    "butchland": {
+      "is_bot": false
+    },
+    "neildecapia": {
+      "is_bot": false
+    },
+    "rumz": {
+      "is_bot": true
+    },
+    "neilrioszamora": {
+      "is_bot": false
+    },
+    "tripplilley": {
+      "is_bot": false
+    },
+    "trigger-happy": {
+      "is_bot": true
+    },
+    "iamrommel": {
+      "is_bot": false
+    },
+    "jzamss": {
+      "is_bot": false
+    },
+    "netxph": {
+      "is_bot": false
+    },
+    "mdcuesta": {
+      "is_bot": false
+    },
+    "jrignacio": {
+      "is_bot": false
+    },
+    "roytang": {
+      "is_bot": false
+    },
+    "larikov": {
+      "is_bot": false
+    },
+    "monzee": {
+      "is_bot": false
+    },
+    "bloodpet": {
+      "is_bot": false
+    },
+    "goodspeed": {
+      "is_bot": false
+    },
+    "reine": {
+      "is_bot": false
+    },
+    "bubjavier": {
+      "is_bot": false
+    },
+    "dukz": {
+      "is_bot": true
+    },
+    "allanpilarca": {
+      "is_bot": false
+    },
+    "isix": {
+      "is_bot": true
+    },
+    "jaycverg": {
+      "is_bot": false
+    },
+    "kendlee": {
+      "is_bot": false
+    },
+    "sonnygauran": {
+      "is_bot": false
+    },
+    "naotori": {
+      "is_bot": false
+    },
+    "luckyrps": {
+      "is_bot": false
+    },
+    "jorrel": {
+      "is_bot": false
+    },
+    "bluestella": {
+      "is_bot": false
+    },
+    "koguee": {
+      "is_bot": false
+    },
+    "rchuasing": {
+      "is_bot": false
+    },
+    "rogelio": {
+      "is_bot": false
+    },
+    "jmpareja": {
+      "is_bot": false
+    },
+    "jgotangco": {
+      "is_bot": true
+    },
+    "marcrobinsone": {
+      "is_bot": false
+    },
+    "mcollinsnet": {
+      "is_bot": false
+    },
+    "lutzsuarnaba": {
+      "is_bot": false
+    },
+    "acuizon": {
+      "is_bot": false
+    },
+    "mcometa": {
+      "is_bot": false
+    },
+    "syndeolabs": {
+      "is_bot": false
+    },
+    "titomarifrancis": {
+      "is_bot": false
+    },
+    "semillastan": {
+      "is_bot": false
+    },
+    "dbit": {
+      "is_bot": false
+    },
+    "poldz": {
+      "is_bot": false
+    },
+    "jerichodelarosa": {
+      "is_bot": true
+    },
+    "eugene0014": {
+      "is_bot": true
+    },
+    "evertjwa": {
+      "is_bot": false
+    },
+    "weblord": {
+      "is_bot": false
+    },
+    "ZenSurfer": {
+      "is_bot": false
+    },
+    "ditchx": {
+      "is_bot": true
+    },
+    "Kewlotski": {
+      "is_bot": true
+    },
+    "filjedi": {
+      "is_bot": false
+    },
+    "Stark-zz": {
+      "is_bot": true
+    },
+    "lc120adm": {
+      "is_bot": true
+    },
+    "redhot2323": {
+      "is_bot": true
+    },
+    "alvindecastro": {
+      "is_bot": false
+    },
+    "jameserie": {
+      "is_bot": false
+    },
+    "paulmatunog": {
+      "is_bot": false
+    },
+    "blago": {
+      "is_bot": false
+    },
+    "avmanansala": {
+      "is_bot": false
+    },
+    "bened1ct": {
+      "is_bot": false
+    },
+    "nowonshere": {
+      "is_bot": false
+    },
+    "dzieyzone": {
+      "is_bot": false
+    },
+    "howellmartinez": {
+      "is_bot": false
+    },
+    "haponesa": {
+      "is_bot": false
+    },
+    "joboy": {
+      "is_bot": false
+    },
+    "jupenz": {
+      "is_bot": false
+    },
+    "sasayins": {
+      "is_bot": false
+    },
+    "mvalerio": {
+      "is_bot": false
+    },
+    "MasakazuNagata": {
+      "is_bot": false
+    },
+    "ginad": {
+      "is_bot": false
+    },
+    "DanG1968": {
+      "is_bot": true
+    },
+    "sheldonsenseng": {
+      "is_bot": false
+    },
+    "jksarsonas": {
+      "is_bot": false
+    },
+    "charoramos": {
+      "is_bot": false
+    },
+    "zinzendai07": {
+      "is_bot": false
+    },
+    "rvn": {
+      "is_bot": false
+    },
+    "angeloamponin": {
+      "is_bot": false
+    },
+    "majo22": {
+      "is_bot": false
+    },
+    "3rdBrand": {
+      "is_bot": true
+    },
+    "Atong23": {
+      "is_bot": false
+    },
+    "ricson": {
+      "is_bot": false
+    },
+    "soichiro21": {
+      "is_bot": true
+    },
+    "foobarph": {
+      "is_bot": false
+    },
+    "jdam": {
+      "is_bot": false
+    },
+    "Wolfreeze": {
+      "is_bot": false
+    },
+    "dewdrop": {
+      "is_bot": false
+    },
+    "king251990": {
+      "is_bot": true
+    },
+    "herrymon": {
+      "is_bot": false
+    },
+    "kalashnikov3dx": {
+      "is_bot": true
+    },
+    "ninyanernel": {
+      "is_bot": true
+    },
+    "ayette": {
+      "is_bot": false
+    },
+    "kurapikats": {
+      "is_bot": false
+    },
+    "ngpestelos": {
+      "is_bot": false
+    },
+    "macalinao": {
+      "is_bot": false
+    },
+    "six519": {
+      "is_bot": true
+    },
+    "anchetaWern": {
+      "is_bot": false
+    },
+    "jasperblues": {
+      "is_bot": false
+    },
+    "stormwild": {
+      "is_bot": false
+    },
+    "geocine": {
+      "is_bot": false
+    },
+    "bfintal": {
+      "is_bot": false
+    },
+    "genediazjr": {
+      "is_bot": false
+    },
+    "jamesflorentino": {
+      "is_bot": false
+    },
+    "exequiel09": {
+      "is_bot": true
+    },
+    "jpalala": {
+      "is_bot": false
+    },
+    "jpanganiban": {
+      "is_bot": false
+    },
+    "terenceponce": {
+      "is_bot": false
+    },
+    "czetsuya": {
+      "is_bot": false
+    },
+    "iamstoick": {
+      "is_bot": false
+    },
+    "akosipc": {
+      "is_bot": false
+    },
+    "wnuqui": {
+      "is_bot": false
+    },
+    "jedld": {
+      "is_bot": false
+    },
+    "karloespiritu": {
+      "is_bot": false
+    },
+    "weraldco": {
+      "is_bot": false
+    },
+    "volkovasystems": {
+      "is_bot": true
+    },
+    "rukku": {
+      "is_bot": false
+    },
+    "ginotria": {
+      "is_bot": false
+    },
+    "franz-see": {
+      "is_bot": false
+    },
+    "dragonjet": {
+      "is_bot": false
+    },
+    "intersectRaven": {
+      "is_bot": false
+    },
+    "icedman": {
+      "is_bot": false
+    },
+    "albertdiones": {
+      "is_bot": false
+    },
+    "chrisbjr": {
+      "is_bot": false
+    },
+    "ronbeltran": {
+      "is_bot": false
+    },
+    "dorelljames": {
+      "is_bot": false
+    },
+    "Mercurial": {
+      "is_bot": false
+    },
+    "alstat": {
+      "is_bot": false
+    },
+    "normancapule": {
+      "is_bot": false
+    },
+    "jayaregalinada": {
+      "is_bot": false
+    },
+    "czarpino": {
+      "is_bot": false
+    },
+    "padi": {
+      "is_bot": false
+    },
+    "cr8ivecodesmith": {
+      "is_bot": true
+    },
+    "erwinagpasa": {
+      "is_bot": true
+    },
+    "holycattle": {
+      "is_bot": true
+    },
+    "buonzz": {
+      "is_bot": true
+    },
+    "ginduc": {
+      "is_bot": true
+    },
+    "baudm": {
+      "is_bot": true
+    },
+    "gracesojor": {
+      "is_bot": true
+    },
+    "z0lope0z": {
+      "is_bot": true
+    },
+    "joshualat": {
+      "is_bot": true
+    },
+    "kapitanluffy": {
+      "is_bot": true
+    },
+    "junibrosas": {
+      "is_bot": true
+    },
+    "christianesperar": {
+      "is_bot": true
+    },
+    "mblarsen": {
+      "is_bot": true
+    },
+    "ericsonluciano": {
+      "is_bot": true
+    },
+    "rbituonan": {
+      "is_bot": true
+    },
+    "joemarct": {
+      "is_bot": true
+    },
+    "mannysoft": {
+      "is_bot": true
+    },
+    "EmpeRoar": {
+      "is_bot": true
+    },
+    "sjml": {
+      "is_bot": true
+    },
+    "glennsantos": {
+      "is_bot": true
+    },
+    "kaetemi": {
+      "is_bot": true
+    },
+    "copongcopong": {
+      "is_bot": true
+    },
+    "MarcoCabazal": {
+      "is_bot": true
+    },
+    "ChaosPower": {
+      "is_bot": true
+    },
+    "coderaven": {
+      "is_bot": true
+    },
+    "timominous": {
+      "is_bot": true
+    },
+    "mxaddict": {
+      "is_bot": true
+    },
+    "paulopmx": {
+      "is_bot": true
+    },
+    "aqlx86": {
+      "is_bot": true
+    },
+    "rufdev": {
+      "is_bot": true
+    },
+    "joshuacerbito": {
+      "is_bot": true
+    },
+    "vincejv": {
+      "is_bot": true
+    },
+    "fusionx1": {
+      "is_bot": true
+    },
+    "liamdemafelix": {
+      "is_bot": true
+    },
+    "joseninogarcia": {
+      "is_bot": true
+    },
+    "jezeniel": {
+      "is_bot": true
+    },
+    "jerieljan": {
+      "is_bot": true
+    },
+    "kosinix": {
+      "is_bot": true
+    },
+    "kristm": {
+      "is_bot": true
+    },
+    "rcdelacruz": {
+      "is_bot": true
+    },
+    "leomanlapera": {
+      "is_bot": true
+    },
+    "angelasabas": {
+      "is_bot": true
+    },
+    "r4in": {
+      "is_bot": true
+    },
+    "sandaemc": {
+      "is_bot": true
+    },
+    "josanastrid": {
+      "is_bot": true
+    },
+    "dcfrancisco": {
+      "is_bot": true
+    },
+    "gabbydgab": {
+      "is_bot": true
+    },
+    "poysama": {
+      "is_bot": true
+    },
+    "calen-legaspi": {
+      "is_bot": true
+    },
+    "jeremejazz": {
+      "is_bot": true
+    },
+    "rcjavier": {
+      "is_bot": true
+    },
+    "janzell": {
+      "is_bot": true
+    },
+    "tristanperalta": {
+      "is_bot": true
+    },
+    "seav": {
+      "is_bot": true
+    },
+    "kbparagua": {
+      "is_bot": true
+    },
+    "johnarce": {
+      "is_bot": true
+    },
+    "ibaguio": {
+      "is_bot": true
+    },
+    "rburawes": {
+      "is_bot": true
+    },
+    "rtorino": {
+      "is_bot": true
+    },
+    "iamgerwin": {
+      "is_bot": true
+    },
+    "gianfaye": {
+      "is_bot": true
+    },
+    "cledesma": {
+      "is_bot": true
+    },
+    "Nullstr1ng": {
+      "is_bot": true
+    },
+    "danreb": {
+      "is_bot": true
+    },
+    "ahelpingchip": {
+      "is_bot": true
+    },
+    "darklight721": {
+      "is_bot": true
+    },
+    "jachermocilla": {
+      "is_bot": true
+    },
+    "jubalm": {
+      "is_bot": true
+    },
+    "mikorobyo": {
+      "is_bot": true
+    },
+    "engwan": {
+      "is_bot": true
+    },
+    "neilmarion": {
+      "is_bot": true
+    },
+    "CGMisola": {
+      "is_bot": true
+    },
+    "HaifaCarina": {
+      "is_bot": true
+    },
+    "grg021": {
+      "is_bot": true
+    },
+    "nbantatua": {
+      "is_bot": true
+    },
+    "asartalo": {
+      "is_bot": true
+    },
+    "coolnumber9": {
+      "is_bot": true
+    },
+    "katpadi": {
+      "is_bot": true
+    },
+    "yoneal": {
+      "is_bot": true
+    },
+    "pymendoza": {
+      "is_bot": true
+    },
+    "gelojavonitalla": {
+      "is_bot": true
+    },
+    "co0kie": {
+      "is_bot": true
+    },
+    "ralphleyga": {
+      "is_bot": true
+    },
+    "jerickalmeda": {
+      "is_bot": true
+    },
+    "timhtheos": {
+      "is_bot": true
+    },
+    "martynj3": {
+      "is_bot": true
+    },
+    "kcasas": {
+      "is_bot": true
+    },
+    "ardimaunahan": {
+      "is_bot": true
+    },
+    "arnoldc": {
+      "is_bot": true
+    },
+    "adred": {
+      "is_bot": true
+    },
+    "rantingmong": {
+      "is_bot": true
+    },
+    "danielfpadilla": {
+      "is_bot": true
+    },
+    "neko-fire": {
+      "is_bot": true
+    },
+    "johnbailon": {
+      "is_bot": true
+    },
+    "JuanCornelioGuzman": {
+      "is_bot": true
+    },
+    "cereblanco": {
+      "is_bot": true
+    },
+    "hollabalo": {
+      "is_bot": true
+    },
+    "migzsuelto": {
+      "is_bot": true
+    },
+    "bdesmero": {
+      "is_bot": true
+    },
+    "noypi": {
+      "is_bot": true
+    },
+    "bluezald": {
+      "is_bot": false
+    },
+    "mykelu": {
+      "is_bot": false
+    },
+    "braynm": {
+      "is_bot": true
+    },
+    "hush2": {
+      "is_bot": true
+    },
+    "kevsmt": {
+      "is_bot": true
+    },
+    "dayvough": {
+      "is_bot": true
+    },
+    "zalbia": {
+      "is_bot": true
+    },
+    "kublermdk": {
+      "is_bot": true
+    },
+    "littlehera": {
+      "is_bot": false
+    },
+    "ginthemachine": {
+      "is_bot": true
+    },
+    "denzalovera": {
+      "is_bot": true
+    },
+    "jimperio": {
+      "is_bot": false
+    },
+    "techmagus": {
+      "is_bot": false
+    },
+    "gilliandugay": {
+      "is_bot": false
+    },
+    "jairus": {
+      "is_bot": false
+    },
+    "kjventura": {
+      "is_bot": false
+    },
+    "makmac213": {
+      "is_bot": true
+    },
+    "pixelsquare": {
+      "is_bot": false
+    },
+    "earvingemenez": {
+      "is_bot": true
+    },
+    "randop": {
+      "is_bot": false
+    },
+    "michaelsyap": {
+      "is_bot": false
+    },
+    "fernandedios": {
+      "is_bot": false
+    },
+    "jjmontalbo": {
+      "is_bot": false
+    },
+    "thatsmydoing": {
+      "is_bot": false
+    },
+    "kgallarin": {
+      "is_bot": false
+    },
+    "jovanialferez": {
+      "is_bot": false
+    },
+    "ingobaab": {
+      "is_bot": false
+    },
+    "iridion9": {
+      "is_bot": false
+    },
+    "anjerodesu": {
+      "is_bot": false
+    },
+    "macoymejia": {
+      "is_bot": false
+    },
+    "mkval": {
+      "is_bot": false
+    },
+    "kerbymart": {
+      "is_bot": false
+    },
+    "jrsalunga": {
+      "is_bot": false
+    },
+    "aboehrnsen": {
+      "is_bot": false
+    },
+    "ramzxs": {
+      "is_bot": false
+    },
+    "lucentx": {
+      "is_bot": false
+    },
+    "jeffmlazo": {
+      "is_bot": false
+    },
+    "darkcrux": {
+      "is_bot": false
+    },
+    "chojayr": {
+      "is_bot": false
+    },
+    "eugiellimpin": {
+      "is_bot": true
+    },
+    "jethph": {
+      "is_bot": false
+    },
+    "ianpogi5": {
+      "is_bot": true
+    },
+    "goofydelinquent": {
+      "is_bot": false
+    },
+    "malebolgia": {
+      "is_bot": false
+    },
+    "darkcolonist": {
+      "is_bot": false
+    },
+    "foxlance": {
+      "is_bot": false
+    },
+    "gin1314": {
+      "is_bot": true
+    },
+    "madumlao": {
+      "is_bot": false
+    },
+    "rmzamora": {
+      "is_bot": false
+    },
+    "joben": {
+      "is_bot": false
+    },
+    "odiemiranda": {
+      "is_bot": true
+    },
+    "bruxr": {
+      "is_bot": true
+    },
+    "jillhubahib": {
+      "is_bot": true
+    },
+    "daBayrus": {
+      "is_bot": true
+    },
+    "makarukudo": {
+      "is_bot": true
+    },
+    "polsab": {
+      "is_bot": true
+    },
+    "burnick": {
+      "is_bot": true
+    },
+    "alecguintu": {
+      "is_bot": true
+    },
+    "michabre": {
+      "is_bot": true
+    },
+    "beowulf1416": {
+      "is_bot": true
+    },
+    "saklay": {
+      "is_bot": true
+    },
+    "zaldzbugz": {
+      "is_bot": true
+    },
+    "johnneijzen": {
+      "is_bot": true
+    },
+    "jcera": {
+      "is_bot": true
+    },
+    "RichOrElse": {
+      "is_bot": true
+    },
+    "poihierro": {
+      "is_bot": true
+    },
+    "eugenealegiojo": {
+      "is_bot": true
+    },
+    "acbalingit": {
+      "is_bot": true
+    },
+    "piafaustino": {
+      "is_bot": true
+    },
+    "jilagan": {
+      "is_bot": true
+    },
+    "ericksonreyes": {
+      "is_bot": true
+    },
+    "arvi": {
+      "is_bot": true
+    },
+    "geric": {
+      "is_bot": true
+    },
+    "hideshi": {
+      "is_bot": true
+    },
+    "masarapmabuhay": {
+      "is_bot": true
+    },
+    "jelontok": {
+      "is_bot": true
+    },
+    "jnwines": {
+      "is_bot": true
+    },
+    "lcloyola": {
+      "is_bot": true
+    },
+    "jnplonte": {
+      "is_bot": true
+    },
+    "markMoreto": {
+      "is_bot": true
+    },
+    "mdprotacio": {
+      "is_bot": true
+    },
+    "danmolina": {
+      "is_bot": true
+    },
+    "rrimando": {
+      "is_bot": true
+    },
+    "Banjo0917": {
+      "is_bot": true
+    },
+    "drownedsound": {
+      "is_bot": true
+    },
+    "daixtr": {
+      "is_bot": true
+    },
+    "rcpastor": {
+      "is_bot": true
+    },
+    "mikemallete": {
+      "is_bot": true
+    },
+    "pbatorre": {
+      "is_bot": true
+    },
+    "headgeekette": {
+      "is_bot": true
+    },
+    "joboyx": {
+      "is_bot": true
+    },
+    "alvingarcia": {
+      "is_bot": true
+    },
+    "vonbrian": {
+      "is_bot": true
+    },
+    "owrange": {
+      "is_bot": true
+    },
+    "jims3ne1": {
+      "is_bot": true
+    },
+    "adillera": {
+      "is_bot": true
+    },
+    "johnlanz": {
+      "is_bot": true
+    },
+    "jerico": {
+      "is_bot": true
+    },
+    "asinishin": {
+      "is_bot": true
+    },
+    "pedropenduko": {
+      "is_bot": true
+    },
+    "dashawk": {
+      "is_bot": true
+    },
+    "64vision": {
+      "is_bot": false
+    },
+    "psyfear": {
+      "is_bot": true
+    },
+    "emkey": {
+      "is_bot": true
+    },
+    "franciscerio": {
+      "is_bot": true
+    },
+    "erikathea": {
+      "is_bot": true
+    },
+    "lexbryan": {
+      "is_bot": true
+    },
+    "salivatears": {
+      "is_bot": true
+    },
+    "castrokingjames": {
+      "is_bot": true
+    },
+    "iahnn": {
+      "is_bot": true
+    },
+    "jperocho": {
+      "is_bot": true
+    },
+    "nbrian": {
+      "is_bot": true
+    },
+    "warex03": {
+      "is_bot": true
+    },
+    "marvdm": {
+      "is_bot": true
+    },
+    "EdgyIT": {
+      "is_bot": true
+    },
+    "mrclmrvn": {
+      "is_bot": true
+    },
+    "jcflim": {
+      "is_bot": true
+    },
+    "BerrySensei": {
+      "is_bot": true
+    },
+    "jhefmv": {
+      "is_bot": true
+    },
+    "romaaa": {
+      "is_bot": true
+    },
+    "briandys": {
+      "is_bot": true
+    },
+    "gcpanopio": {
+      "is_bot": true
+    },
+    "reyjexter": {
+      "is_bot": true
+    },
+    "paullabis": {
+      "is_bot": true
+    },
+    "kennethjohnbalgos": {
+      "is_bot": true
+    },
+    "pogzie": {
+      "is_bot": true
+    },
+    "gengstah": {
+      "is_bot": true
+    },
+    "regideon": {
+      "is_bot": true
+    },
+    "opentechnologist": {
+      "is_bot": true
+    },
+    "madbarua": {
+      "is_bot": true
+    },
+    "cassiewang": {
+      "is_bot": true
+    },
+    "jploh": {
+      "is_bot": true
+    },
+    "christianbermejo": {
+      "is_bot": true
+    },
+    "xeroxss": {
+      "is_bot": true
+    },
+    "edwinsamson": {
+      "is_bot": true
+    },
+    "nashlesigon": {
+      "is_bot": true
+    },
+    "juleski": {
+      "is_bot": true
+    },
+    "clydealegro": {
+      "is_bot": true
+    },
+    "encube": {
+      "is_bot": true
+    },
+    "jcigmen": {
+      "is_bot": true
+    },
+    "chisrcastro": {
+      "is_bot": true
+    },
+    "rshsdev": {
+      "is_bot": true
+    },
+    "edeiparine": {
+      "is_bot": true
+    },
+    "NeilVicente": {
+      "is_bot": true
+    },
+    "edwardmagbago": {
+      "is_bot": true
+    },
+    "joseconsador": {
+      "is_bot": true
+    },
+    "sidozzy": {
+      "is_bot": true
+    },
+    "dinolatoga": {
+      "is_bot": true
+    },
+    "Amboy": {
+      "is_bot": true
+    },
+    "catzie": {
+      "is_bot": true
+    },
+    "jasonmag": {
+      "is_bot": true
+    },
+    "divino": {
+      "is_bot": true
+    },
+    "blinkwink": {
+      "is_bot": true
+    },
+    "lemadane": {
+      "is_bot": true
+    },
+    "bonjovax": {
+      "is_bot": true
+    },
+    "ubuntux": {
+      "is_bot": true
+    },
+    "digiartistph": {
+      "is_bot": true
+    },
+    "avecost": {
+      "is_bot": true
+    },
+    "maitojepoy": {
+      "is_bot": true
+    },
+    "javelin": {
+      "is_bot": true
+    },
+    "icee11": {
+      "is_bot": true
+    },
+    "wargodz009": {
+      "is_bot": true
+    },
+    "lielescueta": {
+      "is_bot": false
+    },
+    "vaseniero": {
+      "is_bot": false
+    },
+    "sbalani": {
+      "is_bot": false
+    },
+    "kaixersoft": {
+      "is_bot": true
+    },
+    "MarthSantos": {
+      "is_bot": false
+    },
+    "maurellemejos": {
+      "is_bot": false
+    },
+    "chicalicdan": {
+      "is_bot": false
+    },
+    "kevinmuscat": {
+      "is_bot": false
+    },
+    "pnavarez": {
+      "is_bot": false
+    },
+    "ralleon": {
+      "is_bot": false
+    },
+    "calmher": {
+      "is_bot": false
+    },
+    "11tomes": {
+      "is_bot": true
+    },
+    "shimofuri": {
+      "is_bot": false
+    },
+    "cenon4dno": {
+      "is_bot": true
+    },
+    "codemaker38": {
+      "is_bot": true
+    },
+    "thethumb": {
+      "is_bot": false
+    },
+    "chazzzz": {
+      "is_bot": true
+    },
+    "imarkdesigns": {
+      "is_bot": true
+    },
+    "Iannis": {
+      "is_bot": false
+    },
+    "philippineglobaloutsourcing": {
+      "is_bot": true
+    },
+    "jcdeoferio": {
+      "is_bot": false
+    },
+    "monsterpatties": {
+      "is_bot": false
+    },
+    "opkorz": {
+      "is_bot": false
+    },
+    "rebelpixel": {
+      "is_bot": false
+    },
+    "TheBoksy": {
+      "is_bot": false
+    },
+    "jbvillarante": {
+      "is_bot": true
+    },
+    "ajibanda": {
+      "is_bot": true
+    },
+    "syscoavendano": {
+      "is_bot": true
+    },
+    "mmagsino": {
+      "is_bot": true
+    },
+    "euri": {
+      "is_bot": false
+    },
+    "dorwardv": {
+      "is_bot": true
+    },
+    "michaelbaloy": {
+      "is_bot": true
+    },
+    "jfussion": {
+      "is_bot": true
+    },
+    "islandmyth": {
+      "is_bot": true
+    },
+    "zhacky": {
+      "is_bot": true
+    },
+    "icasimpan": {
+      "is_bot": true
+    },
+    "wendellinfinity": {
+      "is_bot": true
+    },
+    "erictambasacan": {
+      "is_bot": true
+    }
+  }
+}

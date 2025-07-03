@@ -1,0 +1,92 @@
+{
+  "analysis_date": "2025-06-23 15:54:04",
+  "total_users_analyzed": 35732,
+  "user_classification": {
+    "inactive_users": 25096,
+    "casual_users": 6581,
+    "power_users": 32,
+    "regular_users": 4023
+  },
+  "distribution_statistics": {
+    "total_commits": {
+      "mean": 47.519,
+      "median": 0.0,
+      "std": 2296.6,
+      "percentiles": {
+        "P25": 0.0,
+        "P50": 0.0,
+        "P75": 3.0,
+        "P90": 47.0,
+        "P95": 123.45,
+        "P99": 475.69
+      },
+      "outlier_counts": {
+        "iqr_outliers": 7209,
+        "above_2_sigma": 25,
+        "above_3_sigma": 17,
+        "top_1_percent": 358,
+        "bottom_1_percent": 25096
+      }
+    },
+    "avg_commits_per_month": {
+      "mean": 3.96,
+      "median": 0.0,
+      "std": 191.383,
+      "percentiles": {
+        "P25": 0.0,
+        "P50": 0.0,
+        "P75": 0.25,
+        "P90": 3.917,
+        "P95": 10.287,
+        "P99": 39.641
+      },
+      "outlier_counts": {
+        "iqr_outliers": 7209,
+        "above_2_sigma": 25,
+        "above_3_sigma": 17,
+        "top_1_percent": 358,
+        "bottom_1_percent": 25096
+      }
+    },
+    "consistency_score": {
+      "mean": 0.196,
+      "median": 0.0,
+      "std": 0.292,
+      "percentiles": {
+        "P25": 0.0,
+        "P50": 0.0,
+        "P75": 0.501,
+        "P90": 0.624,
+        "P95": 0.739,
+        "P99": 1.0
+      },
+      "outlier_counts": {
+        "iqr_outliers": 0,
+        "above_2_sigma": 1019,
+        "above_3_sigma": 0,
+        "top_1_percent": 830,
+        "bottom_1_percent": 23955
+      }
+    },
+    "weekday_ratio": {
+      "mean": 0.314,
+      "median": 0.0,
+      "std": 0.415,
+      "percentiles": {
+        "P25": 0.0,
+        "P50": 0.0,
+        "P75": 0.763,
+        "P90": 1.0,
+        "P95": 1.0,
+        "P99": 1.0
+      },
+      "outlier_counts": {
+        "iqr_outliers": 0,
+        "above_2_sigma": 0,
+        "above_3_sigma": 0,
+        "top_1_percent": 4162,
+        "bottom_1_percent": 21903
+      }
+    }
+  }
+}

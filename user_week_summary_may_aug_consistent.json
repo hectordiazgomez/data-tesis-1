@@ -1,0 +1,172 @@
+{
+  "analysis_date": "2025-07-03 15:56:09",
+  "methodology": "user_week_level_analysis_may_august_consistent_users_p95_outlier_removal",
+  "period": "May-August 2024",
+  "criteria": "Users with at least 1 commit in ALL pre-treatment weeks",
+  "bangladesh": {
+    "clean_stats": {
+      "total_observations": 48510,
+      "unique_users": 2834,
+      "unique_weeks": 19,
+      "total_commits": 990720,
+      "mean_commits": 20.42300556586271,
+      "std_commits": 17.79428239048664,
+      "median_commits": 15.0,
+      "percentiles": {
+        "p10": 3.0,
+        "p25": 7.0,
+        "p50": 15.0,
+        "p75": 29.0,
+        "p90": 47.0,
+        "p95": 59.0,
+        "p99": 76.0
+      },
+      "zero_commit_weeks": 0,
+      "active_weeks": 48510,
+      "zero_commit_percentage": 0.0,
+      "active_percentage": 100.0
+    },
+    "outliers_removed": 2517,
+    "total_consistent_users": 2840,
+    "activity_frequency": {
+      "total_users_with_data": 2834,
+      "never_active": 0,
+      "rarely_active": 24,
+      "sometimes_active": 66,
+      "often_active": 430,
+      "very_active": 2314,
+      "total_weeks_possible": 19
+    },
+    "temporal_patterns": {
+      "quarterly": {
+        "2": {
+          "active_weeks": 24255,
+          "total_commits": 514691,
+          "mean_commits": 21.219995877138736,
+          "median_commits": 16.0
+        },
+        "3": {
+          "active_weeks": 24255,
+          "total_commits": 476029,
+          "mean_commits": 19.626015254586683,
+          "median_commits": 14.0
+        }
+      },
+      "monthly": {
+        "5": {
+          "active_weeks": 13413,
+          "total_commits": 296506,
+          "mean_commits": 22.105867442033848,
+          "median_commits": 17.0
+        },
+        "6": {
+          "active_weeks": 10842,
+          "total_commits": 218185,
+          "mean_commits": 20.12405460247187,
+          "median_commits": 15.0
+        },
+        "7": {
+          "active_weeks": 12207,
+          "total_commits": 225302,
+          "mean_commits": 18.45678708937495,
+          "median_commits": 13.0
+        },
+        "8": {
+          "active_weeks": 9641,
+          "total_commits": 199117,
+          "mean_commits": 20.653148013691524,
+          "median_commits": 15.0
+        },
+        "9": {
+          "active_weeks": 2407,
+          "total_commits": 51610,
+          "mean_commits": 21.441628583298712,
+          "median_commits": 16.0
+        }
+      }
+    }
+  },
+  "philippines": {
+    "clean_stats": {
+      "total_observations": 22042,
+      "unique_users": 1247,
+      "unique_weeks": 19,
+      "total_commits": 514019,
+      "mean_commits": 23.319980038109065,
+      "std_commits": 20.28632064735888,
+      "median_commits": 17.0,
+      "percentiles": {
+        "p10": 4.0,
+        "p25": 8.0,
+        "p50": 17.0,
+        "p75": 33.0,
+        "p90": 53.0,
+        "p95": 67.0,
+        "p99": 88.0
+      },
+      "zero_commit_weeks": 0,
+      "active_weeks": 22042,
+      "zero_commit_percentage": 0.0,
+      "active_percentage": 100.0
+    },
+    "outliers_removed": 1145,
+    "total_consistent_users": 1258,
+    "activity_frequency": {
+      "total_users_with_data": 1247,
+      "never_active": 0,
+      "rarely_active": 10,
+      "sometimes_active": 20,
+      "often_active": 117,
+      "very_active": 1100,
+      "total_weeks_possible": 19
+    },
+    "temporal_patterns": {
+      "quarterly": {
+        "2": {
+          "active_weeks": 10736,
+          "total_commits": 251844,
+          "mean_commits": 23.45789865871833,
+          "median_commits": 17.0
+        },
+        "3": {
+          "active_weeks": 11306,
+          "total_commits": 262175,
+          "mean_commits": 23.189014682469484,
+          "median_commits": 16.0
+        }
+      },
+      "monthly": {
+        "5": {
+          "active_weeks": 5965,
+          "total_commits": 141667,
+          "mean_commits": 23.74970662196144,
+          "median_commits": 18.0
+        },
+        "6": {
+          "active_weeks": 4771,
+          "total_commits": 110177,
+          "mean_commits": 23.0930622511004,
+          "median_commits": 17.0
+        },
+        "7": {
+          "active_weeks": 5809,
+          "total_commits": 137606,
+          "mean_commits": 23.68841452917886,
+          "median_commits": 17.0
+        },
+        "9": {
+          "active_weeks": 1097,
+          "total_commits": 26174,
+          "mean_commits": 23.859617137648133,
+          "median_commits": 17.0
+        },
+        "8": {
+          "active_weeks": 4400,
+          "total_commits": 98395,
+          "mean_commits": 22.3625,
+          "median_commits": 16.0
+        }
+      }
+    }
+  }
+}

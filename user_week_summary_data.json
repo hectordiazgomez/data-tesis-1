@@ -1,0 +1,288 @@
+{
+  "analysis_date": "2025-06-23 19:04:36",
+  "methodology": "user_week_level_analysis_with_p95_outlier_removal",
+  "bangladesh": {
+    "clean_stats": {
+      "total_observations": 470828,
+      "unique_users": 38564,
+      "unique_weeks": 51,
+      "total_commits": 4993316,
+      "mean_commits": 10.605393052239883,
+      "std_commits": 11.259276133184857,
+      "median_commits": 6.0,
+      "percentiles": {
+        "p10": 1.0,
+        "p25": 2.0,
+        "p50": 6.0,
+        "p75": 15.0,
+        "p90": 27.0,
+        "p95": 36.0,
+        "p99": 49.0
+      },
+      "zero_commit_weeks": 0,
+      "active_weeks": 470828,
+      "zero_commit_percentage": 0.0,
+      "active_percentage": 100.0
+    },
+    "outliers_removed": 23967,
+    "user_classification": {
+      "inactive": 56302,
+      "casual": 18942,
+      "power_users": 25,
+      "regular": 12578
+    },
+    "activity_frequency": {
+      "total_users_with_data": 38564,
+      "never_active": 0,
+      "rarely_active": 18900,
+      "sometimes_active": 8399,
+      "often_active": 5894,
+      "very_active": 5371,
+      "total_weeks_possible": 51
+    },
+    "temporal_patterns": {
+      "quarterly": {
+        "1": {
+          "active_weeks": 121050,
+          "total_commits": 1295408,
+          "mean_commits": 10.70142916150351,
+          "median_commits": 6.0
+        },
+        "2": {
+          "active_weeks": 113009,
+          "total_commits": 1181512,
+          "mean_commits": 10.455025705917228,
+          "median_commits": 6.0
+        },
+        "3": {
+          "active_weeks": 117439,
+          "total_commits": 1227109,
+          "mean_commits": 10.448905389180766,
+          "median_commits": 6.0
+        },
+        "4": {
+          "active_weeks": 119330,
+          "total_commits": 1289287,
+          "mean_commits": 10.804382803988938,
+          "median_commits": 6.0
+        }
+      },
+      "monthly": {
+        "1": {
+          "active_weeks": 47556,
+          "total_commits": 524921,
+          "mean_commits": 11.037955252754648,
+          "median_commits": 7.0
+        },
+        "2": {
+          "active_weeks": 37420,
+          "total_commits": 392842,
+          "mean_commits": 10.498182789951898,
+          "median_commits": 6.0
+        },
+        "3": {
+          "active_weeks": 36074,
+          "total_commits": 377645,
+          "mean_commits": 10.468620058768089,
+          "median_commits": 6.0
+        },
+        "4": {
+          "active_weeks": 32047,
+          "total_commits": 324116,
+          "mean_commits": 10.113770399725404,
+          "median_commits": 6.0
+        },
+        "5": {
+          "active_weeks": 46265,
+          "total_commits": 498038,
+          "mean_commits": 10.76489787096077,
+          "median_commits": 6.0
+        },
+        "6": {
+          "active_weeks": 34697,
+          "total_commits": 359358,
+          "mean_commits": 10.357033749315503,
+          "median_commits": 6.0
+        },
+        "7": {
+          "active_weeks": 41150,
+          "total_commits": 411794,
+          "mean_commits": 10.007144592952612,
+          "median_commits": 6.0
+        },
+        "8": {
+          "active_weeks": 36920,
+          "total_commits": 397199,
+          "mean_commits": 10.758369447453955,
+          "median_commits": 6.0
+        },
+        "9": {
+          "active_weeks": 39369,
+          "total_commits": 418116,
+          "mean_commits": 10.620437399984759,
+          "median_commits": 6.0
+        },
+        "10": {
+          "active_weeks": 50258,
+          "total_commits": 547839,
+          "mean_commits": 10.900533248438059,
+          "median_commits": 7.0
+        },
+        "11": {
+          "active_weeks": 40301,
+          "total_commits": 429729,
+          "mean_commits": 10.662986030123323,
+          "median_commits": 6.0
+        },
+        "12": {
+          "active_weeks": 28771,
+          "total_commits": 311719,
+          "mean_commits": 10.834486114490286,
+          "median_commits": 6.0
+        }
+      }
+    }
+  },
+  "philippines": {
+    "clean_stats": {
+      "total_observations": 180814,
+      "unique_users": 14567,
+      "unique_weeks": 51,
+      "total_commits": 2236328,
+      "mean_commits": 12.368113088588274,
+      "std_commits": 13.549333452466005,
+      "median_commits": 7.0,
+      "percentiles": {
+        "p10": 1.0,
+        "p25": 3.0,
+        "p50": 7.0,
+        "p75": 17.0,
+        "p90": 33.0,
+        "p95": 43.0,
+        "p99": 59.0
+      },
+      "zero_commit_weeks": 0,
+      "active_weeks": 180814,
+      "zero_commit_percentage": 0.0,
+      "active_percentage": 100.0
+    },
+    "outliers_removed": 9368,
+    "user_classification": {
+      "inactive": 25096,
+      "casual": 6581,
+      "power_users": 32,
+      "regular": 4023
+    },
+    "activity_frequency": {
+      "total_users_with_data": 14567,
+      "never_active": 0,
+      "rarely_active": 7337,
+      "sometimes_active": 3025,
+      "often_active": 2027,
+      "very_active": 2178,
+      "total_weeks_possible": 51
+    },
+    "temporal_patterns": {
+      "quarterly": {
+        "1": {
+          "active_weeks": 45129,
+          "total_commits": 550165,
+          "mean_commits": 12.19094152318908,
+          "median_commits": 7.0
+        },
+        "2": {
+          "active_weeks": 45699,
+          "total_commits": 569177,
+          "mean_commits": 12.454911486028141,
+          "median_commits": 7.0
+        },
+        "3": {
+          "active_weeks": 45623,
+          "total_commits": 563514,
+          "mean_commits": 12.351533217894483,
+          "median_commits": 7.0
+        },
+        "4": {
+          "active_weeks": 44363,
+          "total_commits": 553472,
+          "mean_commits": 12.475982237450127,
+          "median_commits": 7.0
+        }
+      },
+      "monthly": {
+        "1": {
+          "active_weeks": 16747,
+          "total_commits": 203102,
+          "mean_commits": 12.127664656356362,
+          "median_commits": 7.0
+        },
+        "3": {
+          "active_weeks": 14110,
+          "total_commits": 172704,
+          "mean_commits": 12.239829907866762,
+          "median_commits": 7.0
+        },
+        "5": {
+          "active_weeks": 17903,
+          "total_commits": 223630,
+          "mean_commits": 12.4912025917444,
+          "median_commits": 7.0
+        },
+        "2": {
+          "active_weeks": 14272,
+          "total_commits": 174359,
+          "mean_commits": 12.216858183856502,
+          "median_commits": 7.0
+        },
+        "4": {
+          "active_weeks": 14233,
+          "total_commits": 177000,
+          "mean_commits": 12.435888428300428,
+          "median_commits": 7.0
+        },
+        "6": {
+          "active_weeks": 13563,
+          "total_commits": 168547,
+          "mean_commits": 12.426970434269704,
+          "median_commits": 7.0
+        },
+        "7": {
+          "active_weeks": 16916,
+          "total_commits": 212564,
+          "mean_commits": 12.565854812012295,
+          "median_commits": 7.0
+        },
+        "8": {
+          "active_weeks": 13944,
+          "total_commits": 171092,
+          "mean_commits": 12.269936890418817,
+          "median_commits": 7.0
+        },
+        "9": {
+          "active_weeks": 14763,
+          "total_commits": 179858,
+          "mean_commits": 12.18302513039355,
+          "median_commits": 7.0
+        },
+        "10": {
+          "active_weeks": 18682,
+          "total_commits": 232064,
+          "mean_commits": 12.421796381543732,
+          "median_commits": 7.0
+        },
+        "11": {
+          "active_weeks": 15235,
+          "total_commits": 194124,
+          "mean_commits": 12.741975713816869,
+          "median_commits": 7.0
+        },
+        "12": {
+          "active_weeks": 10446,
+          "total_commits": 127284,
+          "mean_commits": 12.184951177484205,
+          "median_commits": 7.0
+        }
+      }
+    }
+  }
+}

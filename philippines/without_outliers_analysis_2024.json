@@ -1,0 +1,31 @@
+{
+  "analysis_date": "2025-06-23 15:55:52",
+  "note": "Analysis includes complete weeks filtering (first and last weeks removed)",
+  "outlier_weeks_analysis": {
+    "total_weeks_original": 51,
+    "outlier_weeks_removed": 2,
+    "normal_weeks_kept": 49,
+    "original_average_commits": 75087.76,
+    "average_commits_after_removal": 70298.73,
+    "percentage_change": -6.4,
+    "removed_weeks_details": [
+      {
+        "week": "2024-12-18",
+        "commits": 218241,
+        "percentage_above_avg": 190.6
+      },
+      {
+        "week": "2024-04-03",
+        "commits": 166597,
+        "percentage_above_avg": 121.9
+      }
+    ]
+  },
+  "power_users_analysis": {
+    "total_power_users_removed": 1037,
+    "total_weeks_without_power_users": 53,
+    "original_average_commits": 75087.76,
+    "average_commits_without_power_users": 28705.74,
+    "percentage_change": -61.8
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "analysis_date": "2025-06-23 16:50:46",
+  "bangladesh": {
+    "basic_stats": {
+      "total_users": 87847,
+      "complete_weeks": 51,
+      "total_commits": 8522656,
+      "avg_weekly_commits": 167110.9019607843
+    },
+    "user_classification": {
+      "inactive": 56302,
+      "casual": 18942,
+      "power_users": 25,
+      "regular": 12578
+    },
+    "detailed_statistics": {
+      "total_commits": {
+        "mean": 41.05720172572769,
+        "std": 2042.635021540633,
+        "percentiles": {
+          "p10": 0.0,
+          "p25": 0.0,
+          "p50": 0.0,
+          "p75": 8.0,
+          "p90": 67.0,
+          "p95": 160.0,
+          "p99": 520.0
+        }
+      },
+      "monthly_averages": {
+        "mean": 3.421433477143974,
+        "std": 170.2195851283861,
+        "percentiles": {
+          "p10": 0.0,
+          "p25": 0.0,
+          "p50": 0.0,
+          "p75": 0.6666666666666666,
+          "p90": 5.583333333333333,
+          "p95": 13.333333333333334,
+          "p99": 43.333333333333336
+        }
+      }
+    },
+    "power_user_thresholds": {
+      "50": 10000,
+      "100": 5371,
+      "200": 2031,
+      "500": 272
+    },
+    "outlier_thresholds": {
+      "25": {
+        "outlier_weeks": 5,
+        "normal_weeks": 46
+      },
+      "50": {
+        "outlier_weeks": 1,
+        "normal_weeks": 50
+      },
+      "75": {
+        "outlier_weeks": 1,
+        "normal_weeks": 50
+      },
+      "100": {
+        "outlier_weeks": 1,
+        "normal_weeks": 50
+      }
+    }
+  },
+  "philippines": {
+    "basic_stats": {
+      "total_users": 35732,
+      "complete_weeks": 51,
+      "total_commits": 3829476,
+      "avg_weekly_commits": 75087.76470588235
+    },
+    "user_classification": {
+      "inactive": 25096,
+      "casual": 6581,
+      "power_users": 32,
+      "regular": 4023
+    },
+    "detailed_statistics": {
+      "total_commits": {
+        "mean": 47.518918616366285,
+        "std": 2296.5997453897385,
+        "percentiles": {
+          "p10": 0.0,
+          "p25": 0.0,
+          "p50": 0.0,
+          "p75": 3.0,
+          "p90": 47.0,
+          "p95": 123.44999999999709,
+          "p99": 475.6900000000023
+        }
+      },
+      "monthly_averages": {
+        "mean": 3.9599098846971903,
+        "std": 191.38331211581146,
+        "percentiles": {
+          "p10": 0.0,
+          "p25": 0.0,
+          "p50": 0.0,
+          "p75": 0.25,
+          "p90": 3.9166666666666665,
+          "p95": 10.287499999999758,
+          "p99": 39.640833333333525
+        }
+      }
+    },
+    "power_user_thresholds": {
+      "50": 4171,
+      "100": 2441,
+      "200": 1037,
+      "500": 196
+    },
+    "outlier_thresholds": {
+      "25": {
+        "outlier_weeks": 2,
+        "normal_weeks": 49
+      },
+      "50": {
+        "outlier_weeks": 2,
+        "normal_weeks": 49
+      },
+      "75": {
+        "outlier_weeks": 2,
+        "normal_weeks": 49
+      },
+      "100": {
+        "outlier_weeks": 2,
+        "normal_weeks": 49
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "analysis_date": "2025-06-23 16:29:45",
+  "note": "Analysis excludes first and last weeks to ensure complete 7-day periods",
+  "statistics": {
+    "average_weekly_commits": 167110.9,
+    "total_weeks_analyzed": 51
+  },
+  "thresholds": {
+    "average": 167110.9,
+    "50_percent_above": 250666.35,
+    "50_percent_below": 83555.45,
+    "100_percent_above": 334221.8
+  },
+  "categories": {
+    "normal_weeks": 49,
+    "high_activity_weeks_50_100": 0,
+    "very_high_activity_weeks_100_plus": 1,
+    "low_activity_weeks": 1
+  },
+  "outlier_weeks": {
+    "very_high_activity": [
+      {
+        "week": "2024-12-04",
+        "commits": 679445,
+        "percentage_above_avg": 306.6
+      }
+    ],
+    "high_activity": [],
+    "low_activity": [
+      {
+        "week": "2024-04-10",
+        "commits": 78085,
+        "percentage_below_avg": 53.3
+      }
+    ]
+  }
+}
